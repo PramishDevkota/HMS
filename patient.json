@@ -1,0 +1,57 @@
+[
+  {
+    "patientID": 1,
+    "name": "Aarav Sharma",
+    "city": "Kathmandu",
+    "age": 28,
+    "gender": "Male",
+    "height": 175,
+    "weight": 72,
+    "bmi": 23.5,
+    "verdict": "Normal"
+  },
+  {
+    "patientID": 2,
+    "name": "Sita Thapa",
+    "city": "Pokhara",
+    "age": 34,
+    "gender": "Female",
+    "height": 160,
+    "weight": 78,
+    "bmi": 30.5,
+    "verdict": "Obese"
+  },
+  {
+    "patientID": 3,
+    "name": "Bibek Gurung",
+    "city": "Lalitpur",
+    "age": 41,
+    "gender": "Male",
+    "height": 168,
+    "weight": 82,
+    "bmi": 29.1,
+    "verdict": "Overweight"
+  },
+  {
+    "patientID": 4,
+    "name": "Anisha Rai",
+    "city": "Bhaktapur",
+    "age": 25,
+    "gender": "Female",
+    "height": 155,
+    "weight": 52,
+    "bmi": 21.6,
+    "verdict": "Normal"
+  },
+  {
+    "patientID": 5,
+    "name": "Rohan Karki",
+    "city": "Chitwan",
+    "age": 52,
+    "gender": "Male",
+    "height": 180,
+    "weight": 105,
+    "bmi": 32.4,
+    "verdict": "Obese"
+  }
+]
